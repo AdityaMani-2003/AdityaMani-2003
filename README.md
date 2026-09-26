@@ -47,7 +47,7 @@ My personal portfolio showcasing projects, technical background, and achievement
 
 ### Competitive Programming
 
-- **LeetCode:** 200+ problems solved in C++ (1600+ contest rating)
+- **LeetCode:** 300+ problems solved in C++ (1700+ contest rating)
 - **Core Topics:** Arrays, Two Pointers, Binary Search, Trees, Graphs (BFS/DFS), Dynamic Programming
 
 ---
