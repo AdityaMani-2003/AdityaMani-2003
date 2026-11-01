@@ -2,9 +2,9 @@
 
 Software engineer based in India, building full-stack web and mobile applications with TypeScript, Next.js, React Native, and Node.js. 
 
-National Winner at **Smart India Hackathon 2025** (1st place out of 10,000+ teams). Active problem solver on LeetCode with 200+ DSA problems solved in C++ (1600+ contest rating).
+National Winner at **Smart India Hackathon 2025** (1st place out of 10,000+ teams). Active problem solver on LeetCode with 300+ DSA problems solved in C++ (1600+ contest rating).
 
-[LinkedIn](https://www.linkedin.com/in/adityamanitripathi/) · [Email](mailto:tripathiadityamani2003@gmail.com) · [Portfolio](https://github.com/AdityaMani-2003/Portfolio-Website) · [LeetCode](https://leetcode.com/)
+[LinkedIn](https://www.linkedin.com/in/adityamanitripathi/) · [Email](mailto:tripathiadityamani2003@gmail.com) · [Portfolio](https://github.com/AdityaMani-2003/Portfolio-Website) · [LeetCode](https://leetcode.com/u/Cronus___1712/)
 
 ---
 
@@ -47,7 +47,7 @@ My personal portfolio showcasing projects, technical background, and achievement
 
 ### Competitive Programming
 
-- **LeetCode:** 300+ problems solved in C++ (1700+ contest rating)
+- **LeetCode:** 300+ problems solved in C++ (1600+ contest rating)
 - **Core Topics:** Arrays, Two Pointers, Binary Search, Trees, Graphs (BFS/DFS), Dynamic Programming
 
 ---
